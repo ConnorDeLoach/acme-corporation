@@ -1,4 +1,4 @@
-baseURL: %DEPLOY_PRIME_URL 
+baseURL: https://gleaming-meerkat-d0b286.netlify.app
 languageCode: en-us 
 title: Acme Corporation 
 theme: Universal 
