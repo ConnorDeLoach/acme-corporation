@@ -2,11 +2,6 @@ baseURL: https://gleaming-meerkat-d0b286.netlify.app
 languageCode: en-us 
 title: Acme Corporation 
 theme: Eclectic 
-enableEmoji: true
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
 
 author: 
   facebook: "https://facebook.com/example" 
@@ -61,3 +56,8 @@ params:
 
   recent_posts:
     enable: true
+enableEmoji: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
