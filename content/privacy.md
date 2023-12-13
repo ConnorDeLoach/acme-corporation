@@ -1,12 +1,13 @@
 Privacy Policy
-===
+==============
+
 Last updated **August 19, 2019**
 
-Thank you for choosing to be part of our community at _Acme Corporation TM_ (“_Company_”, “_we_”, “_us_”, or “_our_”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our notice or our practices with regard to your personal information, please contact us at contact@example.org.
+Thank you for choosing to be part of our community at _Acme Corporation_&trade; (“_Company_”, “_we_”, “_us_”, or “_our_”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our notice or our practices with regard to your personal information, please contact us at [contact@example.org](mailto:contact@example.org).
 
-When you visit our website -- https://hugoinaction.com and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy notice. We seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue the use of our Sites and our services.
+When you visit our website -- [https://hugoinaction.com](https://hugoinaction.com) and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy notice. We seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue the use of our Sites and our services.
 
-This privacy notice applies to all information collected through our website (such as https://hugoinaction.com) and/or any related services, sales, marketing, or events (we refer to them collectively in this privacy notice as the “Services”).
+This privacy notice applies to all information collected through our website (such as [https://hugoinaction.com)](https://hugoinaction.com)) and/or any related services, sales, marketing, or events (we refer to them collectively in this privacy notice as the “Services”).
 
 Please read this privacy notice carefully, as it will help you make informed decisions about sharing your personal information with us.
 
@@ -92,7 +93,7 @@ We have implemented appropriate technical and organizational security measures d
 
 We do not knowingly collect data from or market to children under 18 years of age.
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at dpo@exmaple.org.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at [dpo@exmaple.org](mailto:dpo@exmaple.org).
 
 ## WHAT ARE YOUR PRIVACY RIGHTS?
 
@@ -102,9 +103,9 @@ In some regions (like the European Economic Area), you have certain rights under
 
 If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.
 
-If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index\en.htm
+If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index\en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index\en.htm)
 
-Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. To opt-out of interest-based advertising by advertisers on our Services visit http://www.aboutads.info/choices/.
+Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. To opt-out of interest-based advertising by advertisers on our Services visit [http://www.aboutads.info/choices/.](http://www.aboutads.info/choices/.)
 
 ## CONTROLS FOR DO-NOT-TRACK FEATURES
 
@@ -126,7 +127,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 ## HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 
-If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), DPO Sample, by email at dpo@exmaple.org, by phone at [(999)999-9999](tel:999-999-9999), or by post to:
+If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), DPO Sample, by email at [dpo@exmaple.org](mailto:dpo@exmaple.org), by phone at [(999)999-9999](tel:999-999-9999), or by post to:
 
 Acme Corporation
 Data Protection Officer
