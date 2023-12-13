@@ -1,0 +1,5 @@
+baseURL: https://gleaming-meerkat-d0b286.netlify.app
+languageCode: en-us 
+title: Acme Corporation 
+theme: Eclectic 
+enableEmoji: true
