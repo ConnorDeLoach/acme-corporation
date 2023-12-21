@@ -2,17 +2,21 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
+    {{if $.Description}}
     <meta name="description" content="{{$.Description}}">
+    {{end}}
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./index.css">
+    {{if $.Title}}
     <title>{{$.Title}}</title>
+    {{end}}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body class="home">
     <section>
       <img src="./image/logo.svg" alt="Acme Logo" width="64"/>
-      <h1>{{$.Title}}</h1>
-      <h2>{{$.Params.Subtitle}}</h2>
+      {{if $.Title}}<h1>{{$.Title}}</h1>{{end}}
+      {{if $.Params.Subtitle}}<h2>{{$.Params.Subtitle}}</h2>{{end}}
       <a href="./blog">Explore</a>
     </section>
     <footer>
