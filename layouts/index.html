@@ -2,9 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    {{if $.Description}}
-    <meta name="description" content="{{$.Description}}">
-    {{end}}
+    {{if $.Description}}    <meta name="description" content="{{$.Description}}">
+    {{else if $.Site.Title}}<meta name="description" content="{{$.Site.Title}}">{{end}}
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./index.css">
     {{if $.Title}}
@@ -15,7 +14,8 @@
   <body class="home">
     <section>
       <img src="./image/logo.svg" alt="Acme Logo" width="64"/>
-      {{if $.Title}}<h1>{{$.Title}}</h1>{{end}}
+      {{if $.Title}}<h1>{{$.Title}}</h1>
+      {{else if site.Title}}<h1>{{$.Site.Title}}</h1>{{end}}
       {{if $.Params.Subtitle}}<h2>{{$.Params.Subtitle}}</h2>{{end}}
       <a href="./blog">Explore</a>
     </section>
