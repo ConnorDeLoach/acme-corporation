@@ -2,21 +2,18 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    {{if $.Description}}    <meta name="description" content="{{$.Description}}">
-    {{else if $.Site.Title}}<meta name="description" content="{{$.Site.Title}}">{{end}}
+    {{if $.Description}}<meta name="description" content="{{$.Description}}">{{end}}
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./index.css">
-    {{if $.Title}}
-    <title>{{$.Title}}</title>
-    {{end}}
+    {{$title := default site.Title $.Title}}
+    {{if $title}}<title>{{$title}}</title>{{end}}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body class="home">
     <section>
       <img src="./image/logo.svg" alt="Acme Logo" width="64"/>
-      {{if $.Title}}<h1>{{$.Title}}</h1>
-      {{else if site.Title}}<h1>{{$.Site.Title}}</h1>{{end}}
-      {{if $.Params.Subtitle}}<h2>{{$.Params.Subtitle}}</h2>{{end}}
+      {{if $title}}<h1>{{$title}}</h1>{{end}}
+      {{if $.Param "subtitle"}}<h2>{{$.Param "subtitle"}}</h2>{{end}}
       <a href="./blog">Explore</a>
     </section>
     <footer>
