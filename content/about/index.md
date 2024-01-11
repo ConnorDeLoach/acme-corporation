@@ -60,7 +60,7 @@ Team
 Our Values
 ----------
 
-{{< repeat 5>}}
+{{< repeat 6>}}
 Customer is our *number 1* priority.
 {{< / repeat>}}
 Nothing else.
