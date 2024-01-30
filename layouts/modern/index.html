@@ -6,7 +6,8 @@
       <img src="./image/logo.svg" alt="Acme Logo" width="64"/>
       {{with $title}}<h1>{{ . }}</h1>{{end}}
       {{with $.Param "subtitle"}}<h2>{{ . | humanize | markdownify }}</h2>{{end}}
-      <a href={{ ref . (.Param "explore") }}>Explore</a>
+      <a href={{ ref . (.Param "explore") }}>Explore</a>+
+      {{ partial "menu.html" . }}
     </section>
     {{ with resources.GetMatch "products.csv"}}
     <section id="products">
